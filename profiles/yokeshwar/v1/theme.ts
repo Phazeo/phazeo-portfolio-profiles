@@ -2,10 +2,10 @@ import type { ProfileSeo, ProfileTheme } from "../../../types";
 
 export const theme: ProfileTheme = {
   cssVariables: {
-    "--color-primary": "#2563eb",
-    "--color-primary-hover": "#1d4ed8",
-    "--color-secondary": "#7c3aed",
-    "--color-accent": "#0891b2",
+    "--color-primary": "#0ea5e9",
+    "--color-primary-hover": "#0284c7",
+    "--color-secondary": "#38bdf8",
+    "--color-accent": "#f97316",
     "--color-background": "#f8fafc",
     "--font-heading": "'Outfit', sans-serif",
     "--font-body": "'Inter', system-ui, sans-serif",
@@ -15,8 +15,8 @@ export const theme: ProfileTheme = {
 };
 
 export const seo: ProfileSeo = {
-  title: "Sriram S M | Generative AI Developer | TCS",
+  title: "Yokeshwar | Electrical & Electronics Engineering Student",
   description:
-    "Sriram S M - Generative AI Developer with 2 years experience. Agentic AI, RAG, LLMs. Designing end-to-end GenAI solutions at Tata Consultancy Services.",
-  ogImage: "profiles/_public/sriram/profile-photo.jpg",
+    "Yokeshwar - Motivated EEE student with hands-on experience in Electric Vehicles, IoT, and Embedded Systems. Building real-world solutions through innovation.",
+  ogImage: "profiles/_public/yokeshwar/profile-photo.jpg",
 };
